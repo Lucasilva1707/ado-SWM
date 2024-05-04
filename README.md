@@ -2,5 +2,5 @@
 ado Web Services
 
 nome dos participantes: 
-Lucas NOE DA siLVA
+Lucas Noe da Silva
 Luan da Silva Ferreira
